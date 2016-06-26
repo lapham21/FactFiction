@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6999D6F61CBDB77500146417"
-               BuildableName = "FactOrFiction.app"
-               BlueprintName = "FactOrFiction"
-               ReferencedContainer = "container:FactOrFiction.xcodeproj">
+               BuildableName = "Faction.app"
+               BlueprintName = "Faction"
+               ReferencedContainer = "container:Faction.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6999D6F61CBDB77500146417"
-            BuildableName = "FactOrFiction.app"
-            BlueprintName = "FactOrFiction"
-            ReferencedContainer = "container:FactOrFiction.xcodeproj">
+            BuildableName = "Faction.app"
+            BlueprintName = "Faction"
+            ReferencedContainer = "container:Faction.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6999D6F61CBDB77500146417"
-            BuildableName = "FactOrFiction.app"
-            BlueprintName = "FactOrFiction"
-            ReferencedContainer = "container:FactOrFiction.xcodeproj">
+            BuildableName = "Faction.app"
+            BlueprintName = "Faction"
+            ReferencedContainer = "container:Faction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6999D6F61CBDB77500146417"
-            BuildableName = "FactOrFiction.app"
-            BlueprintName = "FactOrFiction"
-            ReferencedContainer = "container:FactOrFiction.xcodeproj">
+            BuildableName = "Faction.app"
+            BlueprintName = "Faction"
+            ReferencedContainer = "container:Faction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
